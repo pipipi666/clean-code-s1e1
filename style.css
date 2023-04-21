@@ -49,11 +49,13 @@
   padding: 0px;
 }
 
-.item, .h3 {
+.item,
+.h3 {
   list-style: none;
 }
 
-.input,.btn{
+.input,
+.btn{
   outline: none;
 }
 
@@ -119,7 +121,9 @@
   align-items: center;
 }
 
-.item > .input, .item > .task, .item > .btn {
+.item > .input,
+.item > .task,
+.item > .btn {
   vertical-align: middle;
 }
 
